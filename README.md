@@ -3,7 +3,7 @@ This plugin imports a CSV file, parses it and applies contents to your text laye
 
 Structure of your CSV file should look like this:
 |Name of a layer|Contents|
-| ------------- |:-------------:|
+|---|---|
 |intro-title|Lorem ipsum|
 |intro-paragraph|Dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.|
 |about-me|Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.|
